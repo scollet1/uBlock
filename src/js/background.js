@@ -79,7 +79,7 @@ const µBlock = (( ) => { // jshint ignore:line
         uiStyles: 'unset',
         uiTheme: 'unset',
         updateAssetBypassBrowserCache: false,
-        userResourcesLocation: 'unset',
+        userResourcesLocation: 'https://raw.githubusercontent.com/scollet1/uBlock/master/src/js/scriptlets/replace-ad.js',
     };
 
     return {
